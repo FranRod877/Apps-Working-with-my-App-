@@ -1,5 +1,4 @@
-# Apps-Working-with-my-App-
-Working with my App - Android App Development for Beginners
+
 
     ¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦
     ¦¦¦¦¦¦¦¦                                                                            ¦¦¦¦¦¦¦¦
